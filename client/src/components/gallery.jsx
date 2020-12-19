@@ -36,17 +36,6 @@ class Gallery extends Component {
     const { images } = this.state;
     return (
       <div className="container mx-auto">
-        <nav className="flex items-center justify-between flex-wrap bg-gray-50 p-6">
-          <div className="flex items-center flex-shrink-0 text-indigo-500 mr-6">
-            <h1 className="font-light text-7xl">Star Gallery</h1>
-            <p className="text-sm pt-10 text-purple-500">
-              made with pixabay api...
-            </p>
-          </div>
-          <div className="w-full block flex-grow sm:flex sm:items-center sm:w-auto">
-            <div className="text-sm sm:flex-grow"></div>
-          </div>
-        </nav>
         <ImageSearch
           searchText={(text) =>
             this.setState({
