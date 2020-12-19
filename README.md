@@ -7,3 +7,5 @@ Nodejs
 Express
 
 ![alt star gallery](gallery.PNG)
+
+![alt newsletter](newsletter.PNG)
