@@ -1,5 +1,5 @@
 # Star-Gallery
-Image gallery with newsletter created using pixabay and mailchimp api respectively
+Image gallery with newsletter created using pixabay and mailchimp api respectively. Tailwind css is built into the workflow with postcss and autoprefixer
 ## Tech stack
 - Reactjs
 - Tailwind css
